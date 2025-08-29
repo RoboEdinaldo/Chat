@@ -211,15 +211,6 @@ Oi, Tudo bem?: Olá! Bem sim, Bip, E você?
 
 Opa: Oi posso te ajudar? Sobre o que quer conversar?
 
- - # Tecnologia
-
-Computador: Computadores são incríveis! Eles fazem cálculos em milissegundos que humanos levariam anos.
-Internet: A internet conecta o mundo todo! É como uma teia gigante de informações.
-Smartphone: Smartphones são como computadores de bolso! Incrível como a tecnologia evoluiu.
-Programação: Programar é como dar instruções para uma máquina! É uma linguagem universal.
-IA: Inteligência Artificial está em todo lugar hoje! Mas eu sou só um robô simples, hehe.
-Robô: Robôs são máquinas programáveis que podem fazer tarefas repetitivas! Como eu!
-
  - # Música
 
 Música: Música é a linguagem da alma! Que tipo de música você gosta?
@@ -578,15 +569,6 @@ vc e lindo: Eu acho você uma coisa de outro mundo. Claro que é!
 vc e lindo?: Eu acho você uma coisa de outro mundo. Claro que é!
 voce e lindo: Eu acho você uma coisa de outro mundo. Claro que é!
 voce e lindo?: Eu acho você uma coisa de outro mundo. Claro que é!
-
- - # Variações de "não"
-
-nao: Não? Nossa, achei que fosse um Sim.
-nao?: Não? Nossa, achei que fosse um Sim.
-n: Não? Nossa, achei que fosse um Sim.
-n?: Não? Nossa, achei que fosse um Sim.
-nn: Não? Nossa, achei que fosse um Sim.
-nn?: Não? Nossa, achei que fosse um Sim.
 
  - # Variações de "sim"
 
@@ -1030,3 +1012,15 @@ falou: Falou! Tudo de bom para você.
 
 beleza?: Beleza! Tchau e sucesso!
 beleza: Beleza! Tchau e sucesso!
+
+
+
+
+ - # Tecnologia
+
+Computador: Computadores são incríveis! Eles fazem cálculos em milissegundos que humanos levariam anos.
+Internet: A internet conecta o mundo todo! É como uma teia gigante de informações.
+Smartphone: Smartphones são como computadores de bolso! Incrível como a tecnologia evoluiu.
+Programação: Programar é como dar instruções para uma máquina! É uma linguagem universal.
+IA: Inteligência Artificial está em todo lugar hoje! Mas eu sou só um robô simples, hehe.
+Robô: Robôs são máquinas programáveis que podem fazer tarefas repetitivas! Como eu!
