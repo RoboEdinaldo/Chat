@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Robô Edinaldo</title>
+  <style>
+    body {
+      font-family: Tahoma, Verdana, sans-serif;
+      background: linear-gradient(135deg, #b2c6ff, #e5f0ff);
+      background-image: url('https://images.unsplash.com/photo-1560559383-338dc7faf062?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FtcG9zJTIwdmVyZGVzfGVufDB8fDB8fHww');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      height: 100vh;
+      height: 100dvh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0;
+    }
+
+    #janela {
+      width: min(680px, 95vw - 24px);
+      max-width: 100%;
+      height: min(720px, 95vh);
+      max-height: calc(100dvh - 24px);
+      background: rgba(255, 255, 255, 0.75);
+      border: 2px solid #6a8dff;
+      border-radius: 12px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.3);
+      display: flex;
+      flex-direction: column;
+      backdrop-filter: blur(8px);
+    }
+
+    #titulo {
+      background: linear-gradient(to right, #6a8dff, #4a6ce0);
+      padding: 8px 12px;
+      color: white;
+      font-weight: bold;
+      border-top-left-radius: 10px;
+      border-top-right-radius: 10px;
+      box-shadow: inset 0 -2px 4px rgba(0,0,0,0.2);
+    }
+
+    #chat {
+      flex: 1;
+      padding: 12px;
+      overflow-y: auto;
+      background: rgba(255, 255, 255, 0.2);
+      border-bottom: 2px solid #6a8dff;
+      font-size: 14px;
+    }
+
+    .msg {
+      margin: 8px 0;
+      padding: 8px 12px;
+      border-radius: 10px;
+      max-width: 70%;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    }
+
+    .user {
+      background: linear-gradient(to bottom, #d8f0ff, #a6d9ff);
+      align-self: flex-end;
+    }
+
+    .bot {
+      background: linear-gradient(to bottom, #f1f1f1, #d9d9d9);
+      border: 1px solid #b0b0b0;
+      align-self: flex-start;
+    }
+
+    #input-area {
+      display: flex;
+      padding: 8px;
+      padding-bottom: calc(8px + env(safe-area-inset-bottom));
+      background: linear-gradient(to top, #f0f6ff, #ffffff);
+      border-bottom-left-radius: 10px;
+      border-bottom-right-radius: 10px;
+    }
+
+    input {
+      flex: 1;
+      padding: 8px;
+      border: 1px solid #6a8dff;
+      border-radius: 6px;
+      outline: none;
+      font-size: 14px;
+      background: #ffffffcc;
+    }
+
+    button {
+      margin-left: 6px;
+      padding: 8px 14px;
+      border: 1px solid #4a6ce0;
+      border-radius: 6px;
+      background: linear-gradient(to bottom, #6a8dff, #4a6ce0);
+      color: white;
+      font-weight: bold;
+      cursor: pointer;
+      text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+      box-shadow: inset 0 1px 0 rgba(255,255,255,0.5);
+    }
+
+    button:hover {
+      background: linear-gradient(to bottom, #7b9cff, #5a7df0);
+    }
+
+    /* Ajustes para telas pequenas */
+    @media (max-width: 720px) {
+      #titulo {
+        font-size: 16px;
+      }
+
+      #chat {
+        font-size: 15px;
+      }
+
+      input {
+        font-size: 16px; /* evita zoom em iOS/Android */
+        padding: 10px;
+      }
+
+      button {
+        font-size: 16px;
+        padding: 10px 16px;
+        min-height: 44px; /* alvo de toque mínimo */
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="janela">
+    <div id="titulo">Converse com o Robô Edinaldo!</div>
+    <div id="chat"></div>
+    <div id="input-area">
+      <input type="text" id="mensagem" placeholder="Digite sua mensagem...">
+      <button onclick="enviar()">Enviar!</button>
+    </div>
+  </div>
+
+  <script>
+    let respostas = [];
+
+    // Carrega lista.txt com sinônimos (robusto a comentários e espaços)
+    fetch("lista.txt")
+      .then(resp => resp.text())
+      .then(texto => {
+        respostas = [];
+        texto.split("\n").forEach(linhaBruta => {
+          const linha = linhaBruta.trim();
+          if (!linha || linha.startsWith("#") || linha.startsWith("//")) return;
+          const idx = linha.indexOf(":");
+          if (idx === -1) return;
+          const chaves = linha.slice(0, idx);
+          const valor = linha.slice(idx + 1);
+          const listaChaves = chaves.split(",").map(k => k.trim().toLowerCase()).filter(Boolean);
+          if (!listaChaves.length) return;
+          respostas.push({ chaves: listaChaves, resposta: valor.trim() });
+        });
+      })
+      .catch(err => console.error("Erro ao carregar lista:", err));
+
+    const chat = document.getElementById("chat");
+    const input = document.getElementById("mensagem");
+
+    function adicionarMensagem(texto, classe) {
+      const msg = document.createElement("div");
+      msg.textContent = texto;
+      msg.classList.add("msg", classe);
+      chat.appendChild(msg);
+      chat.scrollTop = chat.scrollHeight;
+    }
+
+    function enviar() {
+      const texto = input.value.trim();
+      if (!texto) return;
+
+      adicionarMensagem("Você: " + texto, "user");
+      input.value = "";
+
+      const resposta = analisarMensagem(texto);
+      setTimeout(() => {
+        adicionarMensagem("Robô Edinaldo: " + resposta, "bot");
+      }, 400);
+    }
+
+    function analisarMensagem(mensagem) {
+      const lower = mensagem.toLowerCase();
+      for (let item of respostas) {
+        for (let chave of item.chaves) {
+          if (lower.includes(chave)) {
+            return item.resposta;
+          }
+        }
+      }
+      return "Não entendi o que você quis dizer. Verifique se a palavra está correta, ou com abreviações.";
+    }
+
+    input.addEventListener("keypress", (e) => {
+      if (e.key === "Enter") enviar();
+    });
+  </script>
+</body>
+</html>

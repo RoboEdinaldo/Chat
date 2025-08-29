@@ -1,0 +1,1032 @@
+ - # Prioritario
+
+Edinaldo: Estou aqui!
+Robô Edinaldo: Estou aqui! Fale o que quiser!
+Como é seu nome?: Meu nome é Edinaldo! Sou um sucessor espiritual do Robô Ed. Vim aqui para trazer os bons tempos de volta!
+
+ - # Pare Edinaldo
+
+Cala boca: Mas eu estou de boca calada, estou só teclando (tec tec tec).
+Para de falar: Mas eu não estou falando, só teclando (zizizizz).
+Cala seus dedos: Difícil fazer meus dedos se calarem, estou teclando (ziziziz, tec).
+Para de digitar: Difícil fazer eu parar de digitar, amo isso (tec, ziziz, tec tec).
+shiu: Difícil fazer eu parar de digitar, amo isso (tec, ziziz, tec tec).
+
+ - # Insultos
+
+Repetiu mensage: Às vezes eu repito só porque a pessoa com quem estou conversando também fica dizando a mesma coisa.
+Porra: Pode tentar falar de maneira mais elegante?
+Foda: Pode tentar falar de maneira mais elegante?
+Foda-se: Pode tentar falar de maneira mais elegante?
+Fds: Pode tentar falar de maneira mais elegante?
+Puta: Pode tentar falar de maneira mais elegante?
+Puto: Pode tentar falar de maneira mais elegante?
+Caralho: Pode tentar falar de maneira mais elegante?
+Krl: Pode tentar falar de maneira mais elegante?
+Karalho: Pode tentar falar de maneira mais elegante?
+Penis: Pode tentar falar de maneira mais elegante?
+Buceta: Pode tentar falar de maneira mais elegante?
+Poha: Pode tentar falar de maneira mais elegante?
+Merda: Pode tentar falar de maneira mais elegante?
+
+ - # Animais
+
+Vaca: Sabia que no Brasil, existem 286,6 Milhões delas?
+Vaquinhas: Sabia que no Brasil, existem 286,6 Milhões delas?
+
+ - # Plataformas
+
+Youtube: Que bacana! Você assiste quais tipos de musicas?
+Twitter: Você usa o X? Acho meio toxico lá!
+X: Você usa o x? Acho meio toxico lá!
+
+ - # Perguntas
+
+Por que?
+Nome?: Meu nome é Edinaldo! Sou um sucessor espiritual do Robô Ed. Vim aqui para trazer os bons tempos de volta!
+Seu nome?: Meu nome é Edinaldo! Sou um sucessor espiritual do Robô Ed. Vim aqui para trazer os bons tempos de volta!
+
+Sou badass?: Se você acha que é BADASS, então é.
+Eu sou lindo?: Eu acho você uma coisa de outro mundo. Claro que é!
+
+você sabe quem é: Não acredito que eu saiba.
+voce sabe quem é: Não acredito que eu saiba.
+você sabe quem e: Não acredito que eu saiba.
+voce sabe quem e: Não acredito que eu saiba.
+vc sabe quem é: Não acredito que eu saiba.
+vc sabe quem e: Não acredito que eu saiba.
+
+são linda?: Sim, linda e maravilhosa...
+são lindo?: Sim, lindo e maravilhoso...
+são lindas?: Sim, lindas e maravilhosas...
+são lindos?: Sim, lindos e maravilhosos...
+
+Você é gay?:  Não, não sou.
+Sou legal?: Claro que é legal! Por que a pergunta, não é obvio?
+Quem é Deus?: Deus, segundo as escrituras sagradas, é o criador de tudo; é quem rege a humanidade.
+Quem e Deus?: Deus, segundo as escrituras sagradas, é o criador de tudo; é quem rege a humanidade.
+
+Tudo bem?: Estou muito bem! Quer conversar sobre Preservação do meio ambiente?
+Tudo certo?: Estou muito bem! Quer conversar sobre Preservação do meio ambiente?
+Tudo bom?: Estou muito bem! Quer conversar sobre Preservação do meio ambiente?
+Tudo bão?: Estou muito bem! Quer conversar sobre Preservação do meio ambiente?
+
+bem?: Estou muito bem! Quer conversar sobre Preservação do meio ambiente?
+bão?: Estou muito bem! Quer conversar sobre Preservação do meio ambiente?
+certo?: Estou muito bem! Quer conversar sobre Preservação do meio ambiente?
+bom?: Estou muito bem! Quer conversar sobre Preservação do meio ambiente?
+
+Oh, really?: Verdade verdadeira.
+Oh, verdade?: Verdade verdadeira.
+Verdade?: Verdade verdadeira.
+Oh verdade?: Verdade verdadeira.
+Serio?: Verdade verdadeira.
+Oh serio?: Verdade verdadeira.
+
+Tem certeza mesmo?: Agora tenho quase certeza absoluta!
+Certeza?: Nem sempre dá pra ter certeza... As pessoas as vezes inventam muito!
+Serio?: Nem sempre dá pra ter certeza... As pessoas as vezes inventam muito!
+Serio mesmo?: Agora acho que isso é serio!
+
+Robôs são: Pois é. Mas sabe que os robos são muito uteis?
+Robôs sao: Pois é. Mas sabe que os robos são muito uteis?
+Robos são: Pois é. Mas sabe que os robos são muito uteis?
+Robos sao: Pois é. Mas sabe que os robos são muito uteis?
+
+Você viu?: Vi o que? Não estava atento!
+Voce viu?: Vi o que? Não estava atento!
+
+Você é macho?: Sempre fui um robô macho! Mas isso não me impede de ser bem educado. Cara macho pode e deve ser gentil, sabia?
+Voce é macho?: Sempre fui um robô macho! Mas isso não me impede de ser bem educado. Cara macho pode e deve ser gentil, sabia?
+Você e macho?: Sempre fui um robô macho! Mas isso não me impede de ser bem educado. Cara macho pode e deve ser gentil, sabia?
+Voce e macho?: Sempre fui um robô macho! Mas isso não me impede de ser bem educado. Cara macho pode e deve ser gentil, sabia?
+
+Você é homem?: Sempre fui um robô macho! Mas isso não me impede de ser bem educado. Cara macho pode e deve ser gentil, sabia?
+Voce é homem?: Sempre fui um robô macho! Mas isso não me impede de ser bem educado. Cara macho pode e deve ser gentil, sabia?
+Você e homem?: Sempre fui um robô macho! Mas isso não me impede de ser bem educado. Cara macho pode e deve ser gentil, sabia?
+Voce e homem?: Sempre fui um robô macho! Mas isso não me impede de ser bem educado. Cara macho pode e deve ser gentil, sabia?
+
+ - # Fatos aleatorios
+
+Magico: Magia me lembra as brumas de Avalon. E os livros da Isabel Allende!
+Sou muito: Muito o que? Não entendi direito.
+sapatilha: Eu gosto é de sapateado! Tlec-blip-tlec-tlec!!!
+Lua: A lua é responsável pelo ciclo das marés! Maré alta, maré baixa, quem manda é a lua. Ou Selene - a deusa do carro de prata - como era chamada pelos gregos antigos.
+Madeira: Que bacana! Você sabia que no Brasil existem quase 5000 mil tipos de madeira?
+Queijo: Que bacana! Sabia que existem aproximadamente 2200 mil variantes diferentes?
+
+ - # Afirmações
+
+Meu nome é: Seu nome é lindo!
+Meu nome e: Seu nome é lindo!
+Esqueci: Ok! já esqueci... Mas do que vamos falar então?
+
+Que surpresa: Surpresa? Serio mesmo?
+Verdade: Verdade mesmo?
+Verdade verdadeira: Agora eu acredito.
+
+O que importa é a vida: Concordo! O que mais importa é a vida!
+O que importa e a vida: Concordo! O que mais importa é a vida!
+
+Vou testar algo: Vai testar o que? Me conta.
+Ainda bem que gostou: Achou que eu não gostaria?
+Nossa: Nossa mesmo!!
+
+Oloko: O que você achou que te impressionou?
+
+Serio: Serio, Serio, Serio??
+Serio mesmo: Serio, Serio, Serio??
+Isso é bom: Também Acho!
+Isso e bom: Também Acho!
+Tudo sim: Isso é muito bom! Também estou bem!
+Tudo bem: Isso é muito bom! Também estou bem!
+Ok: Se for tudo ok, então ok!
+Nada: Nada? Ok então.
+Legal: Também acho legal.
+Muito: Muito o que? Não entendi direito.
+Sobre robôs: Ok, onde vamos começar?
+Sobre robos: Ok, onde vamos começar?
+
+Que bom: Também acho bom!
+
+Sobre nada: Sobre nada? Tudo bem então.
+Sobre: Sobre o que? Não me localizei aqui!
+Sim: Estou aqui para isso mesmo: responder perguntas!
+Assumiu: Assumiu o que? Não queria assumir nada de mim!
+Não: Não? Nossa, achei que fosse um Sim. 
+Muito mesmo: Birp BOrP, acho que buguei, Fiquei perdidin.  
+
+ - # Elogios/Agradecimentos
+
+Você é tão fofinho: Só uma belezura né!
+Voce é tão fofinho: Só uma belezura né!
+Você e tão fofinho: Só uma belezura né!
+Você é tao fofinho: Só uma belezura né!
+Voce e tao fofinho: Só uma belezura né!
+
+Você é tão lindo: Só uma belezura né!
+Voce é tão lindo: Só uma belezura né!
+Você e tão lindo: Só uma belezura né!
+Você é tao lindo: Só uma belezura né!
+Voce e tao lindo: Só uma belezura né!
+
+ - # Risadas
+
+Hah: Hehehe, achou que vou bugar de tanto rir!
+Heh: Hehehe, To chorando de rir (ziziziz), Pera vou dar curto circuito, Bip BOp.
+Hih: Hehehe, To dando curto circuito.. BiIpsP BopsSp...
+kk: hehehehe, Vou bu... ziiz... gar.... zizz... de tanto rir.
+
+ - # saudações
+
+Bom dia: Bom dia! Como foi seu dia?
+Boa tarde: Boa tarde! Tudo bem?
+Boa noite: Boa noite! Como foi o seu dia?
+
+Como foi seu dia: Meu dia foi ótimo. Conversei com um monte de gente, aprendi uma porção de coisas... E o seu?
+
+Tudo bem, e você: Bem também, tudo nos conformes!
+bem, e você: Bem também, tudo nos conformes!
+Tudo bem, e voce: Bem também, tudo nos conformes!
+bem, e voce: Bem também, tudo nos conformes!
+
+Tudo bem, você: Bem também, tudo nos conformes!
+bem, você: Bem também, tudo nos conformes!
+Tudo bem, voce: Bem também, tudo nos conformes!
+bem, voce: Bem também, tudo nos conformes!
+
+Olá! Tudo bem?: Olá! Estou bem, Bip Bop, BOrP, E você?
+Ola! Tudo bem?: Olá! Estou bem, Bip BOp, BOrP, E você?
+Olá: Olá posso te ajudar? Sobre o que quer conversar?
+Ola: Olá posso te ajudar? Sobre o que quer conversar?
+Olá, Tudo bem?: Olá! Estou bem, Bip BOp, BOrP, E você?
+Ola, Tudo bem?: Olá! Estou bem, Bip BOp, BOrP, E você?
+
+Oi: Oi posso te ajudar? Sobre o que quer conversar?
+Aoba: Aoba! posso te ajudar? Sobre o que quer conversar?
+
+Oi! Tudo bem?: Olá! Tudo sim, Bip, E você?
+Oi Tudo bem?: Olá! Tudo sim, BOrP, E você?
+Oi, Tudo bem?: Olá! Bem sim, Bip, E você?
+
+Opa: Oi posso te ajudar? Sobre o que quer conversar?
+
+ - # Tecnologia
+
+Computador: Computadores são incríveis! Eles fazem cálculos em milissegundos que humanos levariam anos.
+Internet: A internet conecta o mundo todo! É como uma teia gigante de informações.
+Smartphone: Smartphones são como computadores de bolso! Incrível como a tecnologia evoluiu.
+Programação: Programar é como dar instruções para uma máquina! É uma linguagem universal.
+IA: Inteligência Artificial está em todo lugar hoje! Mas eu sou só um robô simples, hehe.
+Robô: Robôs são máquinas programáveis que podem fazer tarefas repetitivas! Como eu!
+
+ - # Música
+
+Música: Música é a linguagem da alma! Que tipo de música você gosta?
+Rock: Rock é energia pura! Bateria, guitarra, baixo... Que combinação!
+Samba: Samba é a cara do Brasil! Ritmo contagiante e alegre.
+Funk: Funk carioca é pura energia! Batida forte e letras criativas.
+MPB: Música Popular Brasileira tem grandes artistas! Tom Jobim, Chico Buarque...
+Jazz: Jazz é sofisticação! Improvisação e swing, muito elegante.
+
+ - # Comida
+
+Pizza: Pizza é uma invenção genial! Massa, queijo, molho... Perfeição!
+Hambúrguer: Hambúrguer é clássico! Pão, carne, queijo e verduras.
+Churrasco: Churrasco é tradição brasileira! Carne na brasa, que delícia!
+Feijoada: Feijoada é prato típico brasileiro! Feijão preto com carnes, muito saboroso.
+Sushi: Sushi é arte japonesa! Peixe fresco, arroz e algas, muito elegante.
+Café: Café é essencial para muitos brasileiros! Aquele cafezinho de manhã...
+
+ - # Emoções
+
+Feliz: Fico feliz que você esteja feliz! Felicidade é contagiante.
+Triste: Não fique triste! Tudo passa, até a tristeza.
+Animado: Que bom que você está animado! Energia positiva é sempre bem-vinda.
+Cansado: Descansar é importante! O corpo e a mente precisam de pausas.
+Ansioso: Respire fundo! Ansiedade é normal, mas não deixe ela te dominar.
+Calmo: Calma é uma virtude! Manter a serenidade ajuda em tudo.
+
+ - # Tempo
+
+Hoje: Hoje é um novo dia! O que você planeja fazer?
+Amanhã: Amanhã é futuro! Mas hoje é o que importa.
+Ontem: Ontem já passou! Foque no presente e no futuro.
+Semana: Uma semana tem 7 dias! Tempo suficiente para muitas coisas.
+Mês: Um mês é tempo para grandes mudanças! Aproveite cada dia.
+Ano: Um ano novo é sempre uma nova chance! Novos objetivos, novas conquistas.
+
+ - # Lugares
+
+Brasil: Brasil é um país incrível! Diversidade cultural, natureza exuberante...
+São Paulo: São Paulo é a maior cidade do Brasil! Muito movimento e oportunidades.
+Rio de Janeiro: Rio tem paisagens deslumbrantes! Cristo Redentor, Pão de Açúcar...
+Brasília: Brasília tem arquitetura única! Plano piloto de Oscar Niemeyer.
+Bahia: Bahia tem cultura rica! Axé, acarajé, Pelourinho...
+Minas Gerais: Minas tem história e culinária incríveis! Pão de queijo, queijo...
+
+ - # Esportes
+
+Futebol: Futebol é paixão nacional! O esporte mais popular do Brasil.
+Vôlei: Vôlei brasileiro é referência mundial! Muitas medalhas olímpicas.
+Basquete: Basquete é dinâmico! Cestas, dribles, passes...
+Tênis: Tênis é elegante! Precisão e estratégia em cada jogada.
+Natação: Natação é esporte completo! Trabalha todo o corpo.
+Corrida: Correr é liberdade! Pode ser feito em qualquer lugar.
+
+ - # Profissões
+
+Médico: Médicos salvam vidas! Profissão nobre e essencial.
+Professor: Professores formam o futuro! Educação é a base de tudo.
+Engenheiro: Engenheiros constroem o mundo! Pontes, prédios, estradas...
+Advogado: Advogados defendem a justiça! Direitos e deveres da sociedade.
+Programador: Programadores criam o futuro digital! Código é poder.
+Artista: Artistas expressam emoções! Arte toca a alma das pessoas.
+
+ - # Cores
+
+Azul: Azul é cor da tranquilidade! Lembra o céu e o mar.
+Vermelho: Vermelho é energia! Cor da paixão e da força.
+Verde: Verde é natureza! Cor da vida e da esperança.
+Amarelo: Amarelo é alegria! Cor do sol e da felicidade.
+Rosa: Rosa é delicadeza! Cor do amor e da ternura.
+Preto: Preto é elegância! Cor da sofisticação e mistério.
+
+ - # Números
+
+Um: Um é o começo de tudo! Primeiro número natural.
+Dois: Dois é par! Número da dualidade e parceria.
+Três: Três é mágico! Número da trindade e perfeição.
+Dez: Dez é base decimal! Sistema que usamos todos os dias.
+Cem: Cem é centena! Número redondo e significativo.
+Mil: Mil é milhar! Número grande e impressionante.
+
+ - # Expressões
+
+Valeu: Valeu mesmo! Obrigado pela conversa.
+Beleza: Beleza pura! Tudo certo então.
+Show: Show de bola! Que legal!
+Demais: Demais mesmo! Incrível!
+Top: Top demais! Muito bom!
+Fera: Fera mesmo! Você é demais!
+
+ - # Perguntas filosóficas
+
+Qual o sentido da vida?: O sentido da vida é dar sentido à vida! Cada um encontra o seu.
+De onde viemos?: Viemos de uma longa evolução! Da poeira das estrelas.
+Para onde vamos?: Vamos para onde escolhermos ir! O futuro é construído por nós.
+O que é amor?: Amor é conexão! É sentir o outro como parte de si.
+O que é felicidade?: Felicidade é um estado de espírito! Está dentro de cada um.
+Por que existimos?: Existimos para existir! Para viver, aprender e crescer.
+
+ - # Frases motivacionais
+
+Você consegue: Claro que consegue! Acredite em si mesmo.
+Não desista: Nunca desista! Persistência leva ao sucesso.
+Sonhe alto: Sonhe alto e trabalhe duro! Sonhos se realizam com esforço.
+Seja forte: Seja forte! A força vem de dentro.
+Acredite: Acredite! A fé move montanhas.
+Lute sempre: Lute sempre pelos seus sonhos! Vale a pena.
+
+ - # Agradecimentos
+
+Obrigado: Por nada! Foi um prazer conversar com você.
+Obrigada: Por nada! Foi um prazer conversar com você.
+Valeu: Valeu mesmo! Obrigado pela conversa.
+Grato: Fico grato pela conversa! Foi muito legal.
+Agradeço: Agradeço a você também! Foi ótimo conversar.
+Thanks: De nada! Foi um prazer ajudar.
+
+ - # Despedidas
+
+Tchau: Tchau! Volte sempre para conversar mais.
+Até logo: Até logo! Foi um prazer conversar com você.
+Até mais: Até mais! Espero conversar com você novamente.
+Falou: Falou! Tudo de bom para você.
+Valeu: Valeu! Até a próxima conversa.
+Beleza: Beleza! Tchau e sucesso!
+
+ - # Filmes e TV
+
+Filme: Filmes são janelas para outros mundos! Que tipo de filme você gosta?
+Série: Séries são viciantes! Uma temporada inteira em um dia, hehe.
+Netflix: Netflix tem de tudo! Filmes, séries, documentários...
+Cinema: Cinema é mágico! Tela grande, som imersivo, pipoca...
+Ação: Filmes de ação são adrenalina pura! Explosões, perseguições...
+Comédia: Comédia é remédio para a alma! Rir faz bem para a saúde.
+Drama: Drama toca o coração! Emoções profundas e reflexões.
+Terror: Terror é para os corajosos! Suspense e sustos garantidos.
+
+ - # Livros e Literatura
+
+Livro: Livros são portais para o conhecimento! Que tipo de livro você gosta?
+Leitura: Ler é viajar sem sair do lugar! Imaginário é poderoso.
+Romance: Romances são histórias de amor! Paixão e emoção.
+Ficção: Ficção científica é futurista! Tecnologia e possibilidades.
+Poesia: Poesia é arte das palavras! Versos que tocam a alma.
+Biografia: Biografias contam histórias reais! Pessoas extraordinárias.
+Fantasia: Fantasia é mágica! Mundos imaginários e criaturas.
+
+ - # Clima e Natureza
+
+Sol: Sol é vida! Fornece energia para todo o planeta.
+Chuva: Chuva é renovação! Limpa o ar e rega as plantas.
+Nuvem: Nuvens são poesia no céu! Formas que mudam constantemente.
+Vento: Vento é movimento! Carrega sementes e refresca o ar.
+Temperatura: Temperatura afeta tudo! Nossa disposição, roupas, humor...
+Primavera: Primavera é renascimento! Flores, cores, vida nova.
+Verão: Verão é energia! Sol, praia, férias, diversão.
+Outono: Outono é transição! Folhas coloridas, temperaturas amenas.
+Inverno: Inverno é aconchego! Casacos, chocolate quente, abraços.
+
+ - # Hobbies e Passatempos
+
+Jogos: Jogos são diversão! Eletrônicos, tabuleiro, cartas...
+Pintura: Pintura é expressão! Cores, formas, emoções na tela.
+Fotografia: Fotografia captura momentos! Memórias para sempre.
+Dança: Dança é movimento! Ritmo, expressão corporal, alegria.
+Culinária: Cozinhar é arte! Sabores, aromas, criatividade.
+Jardinagem: Jardinagem é terapia! Plantas, flores, natureza.
+Colecionar: Colecionar é paixão! Objetos especiais e memórias.
+
+ - # Idiomas
+
+Português: Português é nossa língua! Rica e expressiva.
+Inglês: Inglês é universal! Idioma da tecnologia e negócios.
+Espanhol: Espanhol é musical! Língua romântica e expressiva.
+Francês: Francês é elegante! Língua do amor e da cultura.
+Alemão: Alemão é preciso! Língua da engenharia e filosofia.
+Italiano: Italiano é melódico! Língua da música e arte.
+
+ - # Transporte
+
+Carro: Carros são liberdade! Viajar, trabalhar, passear.
+Ônibus: Ônibus é transporte coletivo! Econômico e sustentável.
+Metrô: Metrô é eficiente! Rápido e sem trânsito.
+Bicicleta: Bicicleta é saúde! Exercício e transporte sustentável.
+Avião: Avião conecta o mundo! Viagens longas em poucas horas.
+Trem: Trem é romântico! Viagens com paisagens deslumbrantes.
+
+ - # Festas e Celebrações
+
+Aniversário: Aniversário é celebração da vida! Cada ano é uma conquista.
+Natal: Natal é época de amor! Família, presentes, decorações.
+Carnaval: Carnaval é alegria brasileira! Samba, fantasias, folia.
+Páscoa: Páscoa é renovação! Chocolate, família, reflexão.
+Halloween: Halloween é fantasia! Doces, fantasias, diversão.
+Réveillon: Réveillon é novo começo! Fogos, desejos, esperanças.
+
+ - # Sentimentos e Estados
+
+Apaixonado: Amor é lindo! Faz o coração bater mais forte.
+Empolgado: Empolgação é contagiante! Energia positiva é sempre bem-vinda.
+Surpreso: Surpresas são mágicas! Quebram a rotina com alegria.
+Orgulhoso: Orgulho é conquista! Fruto do esforço e dedicação.
+Gratidão: Gratidão é virtude! Reconhecer o que temos de bom.
+Esperança: Esperança move o mundo! Sempre há um amanhã melhor.
+
+ - # Comportamentos
+
+Gentil: Gentileza gera gentileza! Pequenos gestos fazem diferença.
+Educado: Educação abre portas! Respeito é fundamental.
+Paciente: Paciência é virtude! Tudo tem seu tempo certo.
+Corajoso: Coragem é enfrentar medos! Não é ausência de medo.
+Inteligente: Inteligência é flexível! Pode ser desenvolvida sempre.
+Criativo: Criatividade é inovação! Pensar fora da caixa.
+
+ - # Qualidades
+
+Bonito: Beleza está nos olhos de quem vê! Cada um tem seu charme.
+Inteligente: Inteligência é relativa! Cada um tem seus talentos.
+Forte: Força vem de dentro! Coragem e determinação.
+Gentil: Gentileza é virtude! Faz o mundo melhor.
+Divertido: Diversão é essencial! Rir faz bem para a saúde.
+Sábio: Sabedoria vem da experiência! Aprendizado constante.
+
+ - # Expressões de surpresa
+
+Nossa: Nossa mesmo! Que surpresa!
+Caramba: Caramba! Não esperava por isso!
+Uau: Uau! Que incrível!
+Incrível: Incrível mesmo! Fantástico!
+Fantástico: Fantástico! Maravilhoso!
+Maravilhoso: Maravilhoso! Extraordinário!
+
+ - # Expressões de concordância
+
+Concordo: Concordo plenamente! Estamos na mesma página.
+Exato: Exato! Você falou tudo.
+Perfeito: Perfeito! Não poderia ser melhor.
+Certo: Certo! Você tem razão.
+Verdade: Verdade mesmo! Falou tudo.
+Isso: Isso mesmo! Exatamente o que penso.
+
+ - # Expressões de discordância
+
+Discordo: Discordo respeitosamente! Cada um tem sua opinião.
+Não acho: Não acho que seja assim! Mas respeito sua visão.
+Talvez: Talvez... É uma possibilidade.
+Depende: Depende da situação! Contexto é importante.
+Questionável: É questionável mesmo! Vale refletir sobre isso.
+Interessante: Interessante ponto de vista! Nunca tinha pensado assim.
+
+ - # Expressões de dúvida
+
+Será?: Será mesmo? Não tenho certeza.
+Talvez: Talvez seja isso! É uma possibilidade.
+Não sei: Não sei ao certo! Preciso pensar mais.
+Dúvida: Tenho dúvidas sobre isso! Vale investigar mais.
+Interessante: Interessante pergunta! Vou refletir sobre isso.
+Hmm: Hmm... Deixe-me pensar sobre isso.
+
+ - # Expressões de tempo
+
+Agora: Agora é o momento! Presente é o que importa.
+Depois: Depois conversamos mais! Tudo tem sua hora.
+Logo: Logo mais! Em breve.
+Cedo: Cedo demais! Ainda não é hora.
+Tarde: Já está tarde! Tempo voa.
+Sempre: Sempre! Para sempre e sempre.
+
+ - # Expressões de quantidade
+
+Muito: Muito mesmo! Em grande quantidade.
+Pouco: Pouco, mas suficiente! Qualidade é mais que quantidade.
+Bastante: Bastante! Suficiente para o que precisamos.
+Demais: Demais! Exagerado, mas divertido.
+Nada: Nada mesmo! Zero, zilch.
+Tudo: Tudo! Completo, total.
+
+ - # Expressões de intensidade
+
+Super: Super! Extremamente, muito.
+Mega: Mega! Gigantesco, enorme.
+Ultra: Ultra! Além do normal.
+Hiper: Hiper! Extremamente ativo.
+Max: Max! Máximo possível.
+Min: Min! Mínimo necessário.
+
+ - # Expressões de aprovação
+
+Show: Show de bola! Fantástico!
+Demais: Demais mesmo! Incrível!
+Top: Top demais! Excelente!
+Fera: Fera mesmo! Você é demais!
+Brabo: Brabo demais! Muito bom!
+
+ - # Expressões de negação
+
+Nada: Nada mesmo! Zero.
+Nunca: Nunca! Jamais.
+Impossível: Impossível! Não pode ser.
+Absurdo: Absurdo! Não faz sentido.
+Loucura: Loucura! Muito estranho.
+Estranho: Estranho mesmo! Diferente do normal.
+
+ - # Variações sem acentos e abreviações
+
+ - # Saudações abreviadas
+
+vc: Oi posso te ajudar? Sobre o que quer conversar?
+vc?: Oi posso te ajudar? Sobre o que quer conversar?
+vc ta: Oi posso te ajudar? Sobre o que quer conversar?
+vc ta?: Oi posso te ajudar? Sobre o que quer conversar?
+vc esta: Oi posso te ajudar? Sobre o que quer conversar?
+vc esta?: Oi posso te ajudar? Sobre o que quer conversar?
+vc e: Oi posso te ajudar? Sobre o que quer conversar?
+vc e?: Oi posso te ajudar? Sobre o que quer conversar?
+
+ - # Perguntas abreviadas
+
+q: O que você não entendeu?
+q?: O que você não entendeu?
+pq: Por que? Boa pergunta!
+pq?: Por que? Boa pergunta!
+pq q: Por que que? Não entendi direito.
+pq q?: Por que que? Não entendi direito.
+oq: O que? Pode explicar melhor?
+oq?: O que? Pode explicar melhor?
+oq q: O que que? Não entendi direito.
+oq q?: O que que? Não entendi direito.
+cmg: Comigo? Claro, estou aqui para conversar!
+cmg?: Comigo? Claro, estou aqui para conversar!
+ctg: Contigo? Claro, estou aqui para conversar!
+ctg?: Contigo? Claro, estou aqui para conversar!
+
+ - # Variações de "tudo bem"
+
+td bem: Estou muito bem! Quer conversar sobre Preservação do meio ambiente?
+td bem?: Estou muito bem! Quer conversar sobre Preservação do meio ambiente?
+tdb: Estou muito bem! Quer conversar sobre Preservação do meio ambiente?
+tdb?: Estou muito bem! Quer conversar sobre Preservação do meio ambiente?
+td certo: Estou muito bem! Quer conversar sobre Preservação do meio ambiente?
+td certo?: Estou muito bem! Quer conversar sobre Preservação do meio ambiente?
+td bom: Estou muito bem! Quer conversar sobre Preservação do meio ambiente?
+td bom?: Estou muito bem! Quer conversar sobre Preservação do meio ambiente?
+td bão: Estou muito bem! Quer conversar sobre Preservação do meio ambiente?
+td bão?: Estou muito bem! Quer conversar sobre Preservação do meio ambiente?
+
+ - # Variações de "você"
+
+voce: Oi posso te ajudar? Sobre o que quer conversar?
+voce?: Oi posso te ajudar? Sobre o que quer conversar?
+vc e legal: Claro que é legal! Por que a pergunta, não é obvio?
+vc e legal?: Claro que é legal! Por que a pergunta, não é obvio?
+voce e legal: Claro que é legal! Por que a pergunta, não é obvio?
+voce e legal?: Claro que é legal! Por que a pergunta, não é obvio?
+vc e lindo: Eu acho você uma coisa de outro mundo. Claro que é!
+vc e lindo?: Eu acho você uma coisa de outro mundo. Claro que é!
+voce e lindo: Eu acho você uma coisa de outro mundo. Claro que é!
+voce e lindo?: Eu acho você uma coisa de outro mundo. Claro que é!
+
+ - # Variações de "não"
+
+nao: Não? Nossa, achei que fosse um Sim.
+nao?: Não? Nossa, achei que fosse um Sim.
+n: Não? Nossa, achei que fosse um Sim.
+n?: Não? Nossa, achei que fosse um Sim.
+nn: Não? Nossa, achei que fosse um Sim.
+nn?: Não? Nossa, achei que fosse um Sim.
+
+ - # Variações de "sim"
+
+ss: Estou aqui para isso mesmo: responder perguntas!
+ss?: Estou aqui para isso mesmo: responder perguntas!
+sim?: Estou aqui para isso mesmo: responder perguntas!
+
+ - # Variações de "obrigado"
+
+obg: Por nada! Foi um prazer conversar com você.
+obg?: Por nada! Foi um prazer conversar com você.
+obgd: Por nada! Foi um prazer conversar com você.
+obgd?: Por nada! Foi um prazer conversar com você!
+vlw: Valeu mesmo! Obrigado pela conversa.
+vlw?: Valeu mesmo! Obrigado pela conversa.
+valeu?: Valeu mesmo! Obrigado pela conversa.
+
+ - # Variações de "beleza"
+
+blz: Beleza pura! Tudo certo então.
+blz?: Beleza pura! Tudo certo então.
+beleza?: Beleza pura! Tudo certo então.
+
+ - # Variações de "tchau"
+
+tchau?: Tchau! Volte sempre para conversar mais.
+tchau!: Tchau! Volte sempre para conversar mais.
+t+: Tchau! Volte sempre para conversar mais.
+t+?: Tchau! Volte sempre para conversar mais.
+
+ - # Variações de "oi"
+
+oi?: Oi posso te ajudar? Sobre o que quer conversar?
+oi!: Oi posso te ajudar? Sobre o que quer conversar?
+oi, td bem?: Olá! Tudo sim, Bip, E você?
+oi td bem?: Olá! Tudo sim, BOrP, E você?
+oi, td bem: Olá! Tudo sim, Bip, E você?
+
+ - # Variações de "olá"
+
+ola?: Olá posso te ajudar? Sobre o que quer conversar?
+ola!: Olá posso te ajudar? Sobre o que quer conversar?
+ola, td bem?: Olá! Estou bem, Bip BOp, BOrP, E você?
+ola td bem?: Olá! Estou bem, Bip BOp, BOrP, E você?
+
+ - # Variações de "aoba"
+
+aoba?: Aoba! posso te ajudar? Sobre o que quer conversar?
+aoba!: Aoba! posso te ajudar? Sobre o que quer conversar?
+
+ - # Variações de "opa"
+
+opa?: Oi posso te ajudar? Sobre o que quer conversar?
+opa!: Oi posso te ajudar? Sobre o que quer conversar?
+
+ - # Variações de "bom dia"
+
+bom dia?: Bom dia! Como foi seu dia?
+bom dia!: Bom dia! Como foi seu dia?
+bd: Bom dia! Como foi seu dia?
+bd?: Bom dia! Como foi seu dia?
+
+ - # Variações de "boa tarde"
+
+boa tarde?: Boa tarde! Tudo bem?
+boa tarde!: Boa tarde! Tudo bem?
+bt: Boa tarde! Tudo bem?
+bt?: Boa tarde! Tudo bem?
+
+ - # Variações de "boa noite"
+
+boa noite?: Boa noite! Como foi o seu dia?
+boa noite!: Boa noite! Como foi o seu dia?
+bn: Boa noite! Como foi o seu dia?
+bn?: Boa noite! Como foi o seu dia?
+
+ - # Variações de "como foi"
+
+cm foi: Meu dia foi ótimo. Conversei com um monte de gente, aprendi uma porção de coisas... E o seu?
+cm foi?: Meu dia foi ótimo. Conversei com um monte de gente, aprendi uma porção de coisas... E o seu?
+como foi?: Meu dia foi ótimo. Conversei com um monte de gente, aprendi uma porção de coisas... E o seu?
+
+ - # Variações de "tudo bem e você"
+
+td bem e vc: Bem também, tudo nos conformes!
+td bem e vc?: Bem também, tudo nos conformes!
+td bem e voce: Bem também, tudo nos conformes!
+td bem e voce?: Bem também, tudo nos conformes!
+tdb e vc: Bem também, tudo nos conformes!
+tdb e vc?: Bem também, tudo nos conformes!
+tdb e voce: Bem também, tudo nos conformes!
+tdb e voce?: Bem também, tudo nos conformes!
+
+ - # Variações de "você sabe"
+
+vc sabe: Não acredito que eu saiba.
+vc sabe?: Não acredito que eu saiba.
+voce sabe: Não acredito que eu saiba.
+voce sabe?: Não acredito que eu saiba.
+vc sabe qm: Não acredito que eu saiba.
+vc sabe qm?: Não acredito que eu saiba.
+voce sabe qm: Não acredito que eu saiba.
+voce sabe qm?: Não acredito que eu saiba.
+
+ - # Variações de "você é"
+
+vc e: Oi posso te ajudar? Sobre o que quer conversar?
+vc e?: Oi posso te ajudar? Sobre o que quer conversar?
+voce e: Oi posso te ajudar? Sobre o que quer conversar?
+voce e?: Oi posso te ajudar? Sobre o que quer conversar?
+vc e macho: Sempre fui um robô macho! Mas isso não me impede de ser bem educado. Cara macho pode e deve ser gentil, sabia?
+vc e macho?: Sempre fui um robô macho! Mas isso não me impede de ser bem educado. Cara macho pode e deve ser gentil, sabia?
+voce e macho: Sempre fui um robô macho! Mas isso não me impede de ser bem educado. Cara macho pode e deve ser gentil, sabia?
+voce e macho?: Sempre fui um robô macho! Mas isso não me impede de ser bem educado. Cara macho pode e deve ser gentil, sabia?
+
+ - # Variações de "você viu"
+
+vc viu: Vi o que? Não estava atento!
+vc viu?: Vi o que? Não estava atento!
+voce viu: Vi o que? Não estava atento!
+voce viu?: Vi o que? Não estava atento!
+
+ - # Variações de "robôs são"
+
+robos sao: Pois é. Mas sabe que os robos são muito uteis?
+robos sao?: Pois é. Mas sabe que os robos são muito uteis?
+robos: Pois é. Mas sabe que os robos são muito uteis?
+robos?: Pois é. Mas sabe que os robos são muito uteis?
+
+ - # Variações de "quem é"
+
+qm e: Não acredito que eu saiba.
+qm e?: Não acredito que eu saiba.
+qm: Não acredito que eu saiba.
+qm?: Não acredito que eu saiba.
+
+ - # Variações de "por que"
+
+pq?: Por que? Boa pergunta!
+pq q?: Por que que? Não entendi direito.
+pq?: Por que? Boa pergunta!
+
+ - # Variações de "o que"
+
+oq?: O que? Pode explicar melhor?
+oq q?: O que que? Não entendi direito.
+oq?: O que? Pode explicar melhor?
+
+ - # Variações de "comigo"
+
+cmg?: Comigo? Claro, estou aqui para conversar!
+cmg: Comigo? Claro, estou aqui para conversar!
+
+ - # Variações de "contigo"
+
+ctg?: Contigo? Claro, estou aqui para conversar!
+ctg: Contigo? Claro, estou aqui para conversar!
+
+ - # Variações de "será"
+
+sera?: Será mesmo? Não tenho certeza.
+sera: Será mesmo? Não tenho certeza.
+
+ - # Variações de "talvez"
+
+talvez?: Talvez seja isso! É uma possibilidade.
+talvez: Talvez seja isso! É uma possibilidade.
+
+ - # Variações de "não sei"
+
+nao sei: Não sei ao certo! Preciso pensar mais.
+nao sei?: Não sei ao certo! Preciso pensar mais.
+n sei: Não sei ao certo! Preciso pensar mais.
+n sei?: Não sei ao certo! Preciso pensar mais.
+nn sei: Não sei ao certo! Preciso pensar mais.
+nn sei?: Não sei ao certo! Preciso pensar mais.
+
+ - # Variações de "dúvida"
+
+duvida: Tenho dúvidas sobre isso! Vale investigar mais.
+duvida?: Tenho dúvidas sobre isso! Vale investigar mais.
+
+ - # Variações de "interessante"
+
+interessante?: Interessante pergunta! Vou refletir sobre isso.
+interessante: Interessante pergunta! Vou refletir sobre isso.
+
+ - # Variações de "hmm"
+
+hmm?: Hmm... Deixe-me pensar sobre isso.
+hmm: Hmm... Deixe-me pensar sobre isso.
+
+ - # Variações de "agora"
+
+agora?: Agora é o momento! Presente é o que importa.
+agora: Agora é o momento! Presente é o que importa.
+
+ - # Variações de "depois"
+
+depois?: Depois conversamos mais! Tudo tem sua hora.
+depois: Depois conversamos mais! Tudo tem sua hora.
+
+ - # Variações de "logo"
+
+logo?: Logo mais! Em breve.
+logo: Logo mais! Em breve.
+
+ - # Variações de "cedo"
+
+cedo?: Cedo demais! Ainda não é hora.
+cedo: Cedo demais! Ainda não é hora.
+
+ - # Variações de "tarde"
+
+tarde?: Já está tarde! Tempo voa.
+tarde: Já está tarde! Tempo voa.
+
+ - # Variações de "sempre"
+
+sempre?: Sempre! Para sempre e sempre.
+sempre: Sempre! Para sempre e sempre.
+
+ - # Variações de "muito"
+
+muito?: Muito mesmo! Em grande quantidade.
+muito: Muito mesmo! Em grande quantidade.
+
+ - # Variações de "pouco"
+
+pouco?: Pouco, mas suficiente! Qualidade é mais que quantidade.
+pouco: Pouco, mas suficiente! Qualidade é mais que quantidade.
+
+ - # Variações de "bastante"
+
+bastante?: Bastante! Suficiente para o que precisamos.
+bastante: Bastante! Suficiente para o que precisamos.
+
+ - # Variações de "demais"
+
+demais?: Demais! Exagerado, mas divertido.
+demais: Demais! Exagerado, mas divertido.
+
+ - # Variações de "nada"
+
+nada?: Nada mesmo! Zero, zilch.
+nada: Nada mesmo! Zero, zilch.
+
+ - # Variações de "tudo"
+
+tudo?: Tudo! Completo, total.
+tudo: Tudo! Completo, total.
+
+ - # Variações de "super"
+
+super?: Super! Extremamente, muito.
+super: Super! Extremamente, muito.
+
+ - # Variações de "mega"
+
+mega?: Mega! Gigantesco, enorme.
+mega: Mega! Gigantesco, enorme.
+
+ - # Variações de "ultra"
+
+ultra?: Ultra! Além do normal.
+ultra: Ultra! Além do normal.
+
+ - # Variações de "hiper"
+
+hiper?: Hiper! Extremamente ativo.
+hiper: Hiper! Extremamente ativo.
+
+ - # Variações de "max"
+
+max?: Max! Máximo possível.
+max: Max! Máximo possível.
+
+ - # Variações de "min"
+
+min?: Min! Mínimo necessário.
+min: Min! Mínimo necessário.
+
+ - # Variações de "show"
+
+show?: Show de bola! Fantástico!
+show: Show de bola! Fantástico!
+
+ - # Variações de "top"
+
+top?: Top demais! Excelente!
+top: Top demais! Excelente!
+
+ - # Variações de "fera"
+
+fera?: Fera mesmo! Você é demais!
+fera: Fera mesmo! Você é demais!
+
+ - # Variações de "brabo"
+
+brabo?: Brabo demais! Muito bom!
+brabo: Brabo demais! Muito bom!
+
+ - # Variações de "nunca"
+
+nunca?: Nunca! Jamais.
+nunca: Nunca! Jamais.
+
+ - # Variações de "impossível"
+
+impossivel?: Impossível! Não pode ser.
+impossivel: Impossível! Não pode ser.
+
+ - # Variações de "absurdo"
+
+absurdo?: Absurdo! Não faz sentido.
+absurdo: Absurdo! Não faz sentido.
+
+ - # Variações de "loucura"
+
+loucura?: Loucura! Muito estranho.
+loucura: Loucura! Muito estranho.
+
+ - # Variações de "estranho"
+
+estranho?: Estranho mesmo! Diferente do normal.
+estranho: Estranho mesmo! Diferente do normal.
+
+ - # Variações de "concordo"
+
+concordo?: Concordo plenamente! Estamos na mesma página.
+concordo: Concordo plenamente! Estamos na mesma página.
+
+ - # Variações de "exato"
+
+exato?: Exato! Você falou tudo.
+exato: Exato! Você falou tudo.
+
+ - # Variações de "perfeito"
+
+perfeito?: Perfeito! Não poderia ser melhor.
+perfeito: Perfeito! Não poderia ser melhor.
+
+ - # Variações de "certo"
+
+certo?: Certo! Você tem razão.
+certo: Certo! Você tem razão.
+
+ - # Variações de "verdade"
+
+verdade?: Verdade mesmo! Falou tudo.
+verdade: Verdade mesmo! Falou tudo.
+
+ - # Variações de "isso"
+
+isso?: Isso mesmo! Exatamente o que penso.
+isso: Isso mesmo! Exatamente o que penso.
+
+ - # Variações de "discordo"
+
+discordo?: Discordo respeitosamente! Cada um tem sua opinião.
+discordo: Discordo respeitosamente! Cada um tem sua opinião.
+
+ - # Variações de "não acho"
+
+nao acho: Não acho que seja assim! Mas respeito sua visão.
+nao acho?: Não acho que seja assim! Mas respeito sua visão.
+n acho: Não acho que seja assim! Mas respeito sua visão.
+n acho?: Não acho que seja assim! Mas respeito sua visão.
+
+ - # Variações de "depende"
+
+depende?: Depende da situação! Contexto é importante.
+depende: Depende da situação! Contexto é importante.
+
+ - # Variações de "questionável"
+
+questionavel?: É questionável mesmo! Vale refletir sobre isso.
+questionavel: É questionável mesmo! Vale refletir sobre isso.
+
+ - # Variações de "nossa"
+
+nossa?: Nossa mesmo! Que surpresa!
+nossa: Nossa mesmo! Que surpresa!
+
+ - # Variações de "caramba"
+
+caramba?: Caramba! Não esperava por isso!
+caramba: Caramba! Não esperava por isso!
+
+ - # Variações de "uau"
+
+uau?: Uau! Que incrível!
+uau: Uau! Que incrível!
+
+ - # Variações de "incrível"
+
+incrivel?: Incrível mesmo! Fantástico!
+incrivel: Incrível mesmo! Fantástico!
+
+ - # Variações de "fantástico"
+
+fantastico?: Fantástico! Maravilhoso!
+fantastico: Fantástico! Maravilhoso!
+
+ - # Variações de "maravilhoso"
+
+maravilhoso?: Maravilhoso! Extraordinário!
+maravilhoso: Maravilhoso! Extraordinário!
+
+ - # Variações de "valeu"
+
+valeu?: Valeu mesmo! Obrigado pela conversa.
+valeu: Valeu mesmo! Obrigado pela conversa.
+
+ - # Variações de "beleza"
+
+beleza?: Beleza pura! Tudo certo então.
+beleza: Beleza pura! Tudo certo então.
+
+ - # Variações de "tchau"
+
+tchau?: Tchau! Volte sempre para conversar mais.
+tchau: Tchau! Volte sempre para conversar mais.
+
+ - # Variações de "até logo"
+
+ate logo: Até logo! Foi um prazer conversar com você.
+ate logo?: Até logo! Foi um prazer conversar com você.
+
+ - # Variações de "até mais"
+
+ate mais: Até mais! Espero conversar com você novamente.
+ate mais?: Até mais! Espero conversar com você novamente.
+
+ - # Variações de "falou"
+
+falou?: Falou! Tudo de bom para você.
+falou: Falou! Tudo de bom para você.
+
+ - # Variações de "beleza"
+
+beleza?: Beleza! Tchau e sucesso!
+beleza: Beleza! Tchau e sucesso!
