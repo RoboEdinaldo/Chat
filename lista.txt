@@ -14,6 +14,11 @@ shiu: Difícil fazer eu parar de digitar, amo isso (tec, ziziz, tec tec).
 
  - # Insultos
 
+Burro: Eu sou burro? Eu achei que fosse ser um ser mega inteligente!
+Sem noção: Eu sou sem noção? Nem vou dizer o que penso de você!
+Sem nocão: Eu sou sem noção? Nem vou dizer o que penso de você!
+Sem noçao: Eu sou sem noção? Nem vou dizer o que penso de você!
+Sem nocao: Eu sou sem noção? Nem vou dizer o que penso de você!
 Repetiu mensage: Às vezes eu repito só porque a pessoa com quem estou conversando também fica dizando a mesma coisa.
 Porra: Pode tentar falar de maneira mais elegante?
 Foda: Pode tentar falar de maneira mais elegante?
@@ -42,9 +47,12 @@ X: Você usa o x? Acho meio toxico lá!
 
  - # Perguntas
 
-Por que?
+Pensa de mim: Eu penso que você é uma pessoa surper bacana!
+Por que?: Por que, o que?
 Nome?: Meu nome é Edinaldo! Sou um sucessor espiritual do Robô Ed. Vim aqui para trazer os bons tempos de volta!
 Seu nome?: Meu nome é Edinaldo! Sou um sucessor espiritual do Robô Ed. Vim aqui para trazer os bons tempos de volta!
+
+Mas o que?: Não vou falar!
 
 Sou badass?: Se você acha que é BADASS, então é.
 Eu sou lindo?: Eu acho você uma coisa de outro mundo. Claro que é!
@@ -116,6 +124,12 @@ Madeira: Que bacana! Você sabia que no Brasil existem quase 5000 mil tipos de m
 Queijo: Que bacana! Sabia que existem aproximadamente 2200 mil variantes diferentes?
 
  - # Afirmações
+
+Uso: Então você usa...
+Você é estranho: Eu sou estranho? Tudo bem pensar isso mas...
+Você e estranho: Eu sou estranho? Tudo bem pensar isso mas...
+Voce e estranho: Eu sou estranho? Tudo bem pensar isso mas...
+Voce é estranho: Eu sou estranho? Tudo bem pensar isso mas...
 
 Meu nome é: Seu nome é lindo!
 Meu nome e: Seu nome é lindo!
@@ -529,7 +543,6 @@ vc e?: Oi posso te ajudar? Sobre o que quer conversar?
 
  - # Perguntas abreviadas
 
-q: O que você não entendeu?
 q?: O que você não entendeu?
 pq: Por que? Boa pergunta!
 pq?: Por que? Boa pergunta!
@@ -650,17 +663,6 @@ bn?: Boa noite! Como foi o seu dia?
 cm foi: Meu dia foi ótimo. Conversei com um monte de gente, aprendi uma porção de coisas... E o seu?
 cm foi?: Meu dia foi ótimo. Conversei com um monte de gente, aprendi uma porção de coisas... E o seu?
 como foi?: Meu dia foi ótimo. Conversei com um monte de gente, aprendi uma porção de coisas... E o seu?
-
- - # Variações de "tudo bem e você"
-
-td bem e vc: Bem também, tudo nos conformes!
-td bem e vc?: Bem também, tudo nos conformes!
-td bem e voce: Bem também, tudo nos conformes!
-td bem e voce?: Bem também, tudo nos conformes!
-tdb e vc: Bem também, tudo nos conformes!
-tdb e vc?: Bem também, tudo nos conformes!
-tdb e voce: Bem também, tudo nos conformes!
-tdb e voce?: Bem também, tudo nos conformes!
 
  - # Variações de "você sabe"
 
@@ -1024,3 +1026,4 @@ Smartphone: Smartphones são como computadores de bolso! Incrível como a tecnol
 Programação: Programar é como dar instruções para uma máquina! É uma linguagem universal.
 IA: Inteligência Artificial está em todo lugar hoje! Mas eu sou só um robô simples, hehe.
 Robô: Robôs são máquinas programáveis que podem fazer tarefas repetitivas! Como eu!
+
